@@ -1,2 +1,2 @@
-# analysis
-This is a personal repository where I store queries and data analysis. It is used as a test enviroment where I can make practice.
+# Data Manipulation SQL and Python
+This repository serves as a workspace for storing SQL queries and data analysis projects. It is intended as a test environment for practicing and experimenting with SQL, Python, Pandas, and other data analysis and manipulation tools.
